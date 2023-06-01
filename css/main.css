@@ -62,6 +62,9 @@ footer {
   header {
     background-color: #ffffff;
   }
+    .col-3 {
+      width: 50%;
+    }
 
   #column-1 {
     background-color: #aeb8fe;
@@ -73,6 +76,7 @@ footer {
 
   #column-3 {
     background-color: #27187e;
+    
   }
 
   footer {
@@ -87,6 +91,10 @@ footer {
   header {
     background-color: #ffffff;
   }
+
+    .col-3 {
+      width: 33.3%;
+    }
 
   #column-1 {
     background-color: #b7efc5;
